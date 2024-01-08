@@ -1,7 +1,7 @@
 {
   "name": "alundiak.github.io",
   "version": "1.0.0",
-  "description": "Main GitHub page to represent Andrii Lundiak GitHub page",
+  "description": "Andrii Lundiak GitHub (Actions) Page to represent GitHub account",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

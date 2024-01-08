@@ -27,6 +27,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alundiak&" alt="alundiak" /></p>
 
 
+## Trophies, achievemets
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alundiak" alt="alundiak" /></a> </p>
+
+
 ## [Job Cannon](https://jobcannon.io)
 
 I don't know how good assesment results are, but I know for sure, that I can adapt to any team when we all work together on good software to get our Client happy and rich :) 
@@ -43,7 +48,3 @@ I don't know how good assesment results are, but I know for sure, that I can ada
 <a href="https://www.hackerrank.com/landike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="landike" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alundiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alundiak" height="30" width="40" /></a>
 </p>
-
-## Trophies, achievemets
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alundiak" alt="alundiak" /></a> </p>
