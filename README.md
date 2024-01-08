@@ -4,6 +4,7 @@
 
 - 👯 I’m looking for the full-time regular employment job with Tech stack around **JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
 - 🌱 I’m currently learning **NestJS, CosmosDB, Redis**
+- ✨ I also like to contribute to open source projects, buu not much for active maintenance.
 - 📝 I sometimes write articles on [https://worknme.wordpress.com/](https://worknme.wordpress.com/)
 
 
