@@ -49,3 +49,13 @@ I don't know how good assesment results are, but I know for sure, that I can ada
 <a href="https://www.hackerrank.com/landike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="landike" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alundiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alundiak" height="30" width="40" /></a>
 </p>
+
+
+## Credits
+
+This page has been generated with a bit of help and hints from:
+
+- https://rahuldkjain.github.io/gh-profile-readme-generator/
+- https://github.com/anuraghazra/github-readme-stats
+- https://shields.io/badges
+- https://docs.github.com/en/pages/quickstart
