@@ -3,20 +3,9 @@
 <h1 align="center">Hi 👋, I'm Andrii Lundiak</h1>
 <h3 align="center">A persistent and determined fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alundiak&label=Profile%20views&color=0e75b6&style=flat" alt="alundiak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alundiak" alt="alundiak" /></a> </p>
-
-
-- 🌱 I’m currently learning **NestJS, CosmosDB**
-
-- 👯 I’m looking to collaborate on **projects around NodeJS, TypeScript, react or Angular**
-
-- 📝 I regularly write articles on [https://worknme.wordpress.com/](https://worknme.wordpress.com/)
-
-- 💬 Ask me about **JavaScript, TypeScript, NodeJS, React, Angular, GraphQL**
-
-- ⚡ Fun fact **tbd**
+- 👯 I’m looking to collaborate on **projects around JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
+- 🌱 I’m currently learning **NestJS, CosmosDB, Redis**
+- 📝 I sometimes write articles on [https://worknme.wordpress.com/](https://worknme.wordpress.com/)
 
 
 ## Languages and Tools
@@ -55,3 +44,9 @@ I don't know how good assesment results are, but I know for sure, that I can ada
 <a href="https://www.hackerrank.com/landike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="landike" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alundiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alundiak" height="30" width="40" /></a>
 </p>
+
+## Trophies, achievemets
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alundiak&label=Profile%20views&color=0e75b6&style=flat" alt="alundiak" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alundiak" alt="alundiak" /></a> </p>
