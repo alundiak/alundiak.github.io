@@ -15,7 +15,7 @@
 
 ## Cards
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alundiak&show_icons=true&locale=en&layout=compact" alt="alundiak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alundiak&show_icons=true&locale=en&layout=compact&langs_count=9" alt="alundiak" /></p>
 
 <p></p>
 
