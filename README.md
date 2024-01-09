@@ -42,7 +42,7 @@ I don't know how good assesment results are, but I know for sure, that I can ada
 ![img](./jobcannon_io_assesment.png)
 
 
-## Connect with me
+## Contacts
 
 <p align="left">
 <a href="https://twitter.com/landike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="landike" height="30" width="40" /></a>
