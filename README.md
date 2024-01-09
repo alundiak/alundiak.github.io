@@ -1,8 +1,8 @@
 # Hi 👋, I'm Andrii Lundiak <img src="https://komarev.com/ghpvc/?username=alundiak&label=Profile%20views&color=0e75b6&style=flat" alt="alundiak" />
 
-## a persistent and determined fullstack developer
+## a persistent and determined Fullstack Developer
 
-- 👯 I’m looking for the full-time regular employment job with Tech stack around **JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
+- 👯 I’m looking for the Senior position job with _full-time regular employment_ and tech stack around **JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
 - 🌱 I’m currently learning **NestJS, CosmosDB, Redis**
 - ✨ I also like to contribute to open source projects, buu not much for active maintenance.
 - 📝 I sometimes write articles on [https://worknme.wordpress.com/](https://worknme.wordpress.com/)
