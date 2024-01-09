@@ -2,7 +2,7 @@
 
 ## a persistent and determined Fullstack Developer
 
-- 👯 I’m looking for the Senior job position as Fullstack or Frontend engineer/developer with _full-time regular employment_
+- 👯 I’m looking for the Senior job position as Fullstack or Frontend engineer/developer with _full-time regular employment_ within Poland.
 
 - ✨ My main tech stack is: 
 
