@@ -27,7 +27,8 @@ These are languages and tools which I have worked with, either commercially for 
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alundiak&" alt="alundiak" /></p>
+<!-- NOT stable Heroku app -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alundiak" alt="alundiak" /></p> -->
 
 
 ## Trophies, achievemets
@@ -57,7 +58,7 @@ I don't know how good assesment results are, but I know for sure, that I can ada
 
 This page has been generated with a bit of help and hints from:
 
-- https://rahuldkjain.github.io/gh-profile-readme-generator/
-- https://github.com/anuraghazra/github-readme-stats
-- https://shields.io/badges
-- https://docs.github.com/en/pages/quickstart
+- [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [Sheilds and Badges](https://shields.io/badges)
+- [GitHub Pages](https://docs.github.com/en/pages/quickstart)
