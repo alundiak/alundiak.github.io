@@ -2,14 +2,16 @@
 
 ## a persistent and determined Senior Fullstack Developer
 
-- 👯 I’m looking for the Senior job position as Fullstack or Frontend engineer/developer with _full-time regular employment_ within Poland.
+- 👯 I’m looking for the Senior job position as Fullstack or Frontend engineer/developer with _full-time regular contract of employment_ within Poland.
 
 - ✨ My main tech stack is: 
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Angular Badge](https://img.shields.io/badge/Angular-rgb(246%2055%20227)?style=for-the-badge&logo=angular&labelColor=black)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
-- 🌱 I’m currently learning **Apollo (GraphQL) Federation**
+<!--
+- 🌱 I’m currently learning **Apollo GraphQL Federation**
+-->  
 - ✨ I also like to contribute to open source projects, buu not much for active maintenance.
 - 📝 I sometimes write articles on [https://worknme.wordpress.com/](https://worknme.wordpress.com/)
 
