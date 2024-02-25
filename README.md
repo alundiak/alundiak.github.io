@@ -1,8 +1,6 @@
 # Hi 👋, I'm Andrii Lundiak <img src="https://komarev.com/ghpvc/?username=alundiak&label=Profile%20views&color=0e75b6&style=flat" alt="alundiak" />
 
-## a persistent and determined Senior Fullstack Developer
-
-- 👯 I’m looking for the Senior job position as Fullstack or Frontend engineer/developer with _full-time regular contract of employment_ within Poland.
+## a persistent and determined Senior Fullstack engineer/developer
 
 - ✨ My main tech stack is: 
 
